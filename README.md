@@ -1,5 +1,5 @@
-# address-book
-Web application where a user can manage an address book
+# Address Book
+Web application where a user can manage an address book.
 
 # Features!
 
@@ -11,3 +11,6 @@ Web application where a user can manage an address book
 # Technical specification!
   - We have used Laravel standard code style
   - For front side we have used ready theme
+
+# Demo Link
+  - You can see the demo here: http://192.249.121.94/~team2/contacts/
