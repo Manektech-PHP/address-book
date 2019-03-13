@@ -1,0 +1,109 @@
+/* here you can put your own css to customize and override the theme */
+.login .content .form-actions .btn{
+		margin-left: 20px;
+}
+ #chartdiv {
+	  width: 100%;
+	  height: 500px;
+}
+#admin_logo{
+	width:150px;
+	max-width:100%;
+}
+.page-header.navbar .page-logo {
+	width: auto;
+}
+.page-header.navbar .page-logo > a {
+display: inline-block;
+float: left;
+max-width: 145px;
+width: 100%;
+}
+.page-header.navbar .menu-toggler.sidebar-toggler {
+float: left;
+width: auto;
+margin: 21px 0 0 17px;
+}
+.page-header-inner {
+float: left;
+width: 100%;
+}
+table.dataTable thead .sorting, table.dataTable thead .sorting_desc, table.dataTable thead .sorting_asc {
+background-image: unset;
+}
+.actions .indexbtn{
+	margin-top:3px;
+	float:right;
+}
+.table-scrollable{
+	max-height: 500px;
+	max-width: 1060px;
+   position: relative;
+}
+
+ table#user {
+   position:relative;
+}
+thead.listhead{
+	display: block;
+	position: absolute;
+	width: 100%;
+	top: 0;
+	background: #fff;
+	z-index:1;
+}
+#user th, #user td {
+    min-width: 135px;
+}
+tbody#myHeader{
+	padding-top: 50px !important;
+	display: block;
+	max-height: 500px;
+	overflow: auto;
+} 
+/* #myHeader tr td:first-child { */
+    /* position: fixed; */
+    /* left: 21%; */
+	/* background: #fff; */
+/* }  */
+
+ /* table#user {
+  position: relative;
+  overflow: hidden;
+}
+
+thead.listhead {
+  position: relative;
+  display: block; 
+  width: 1060px;
+  overflow: visible;
+}
+
+thead.listhead th {
+  min-width: 135px;
+  height: 32px;
+}
+
+thead.listhead th:nth-child(1) {
+  position: relative;
+  display: block; 
+}
+
+tbody#myHeader {
+  position: relative;
+  display: block; 
+  width: 1060px;
+  height: 500px;
+  overflow: scroll;
+}
+
+tbody#myHeader td {
+ 
+  min-width: 135px;
+}
+
+tbody tr td:nth-child(1) {  
+  position: relative;
+  display: block; 
+  height: 40px;
+}  */
